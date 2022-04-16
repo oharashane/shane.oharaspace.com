@@ -1,5 +1,5 @@
 # shane.oharaspace.com
 
-[resume]
+[resume](resume.md)
 
 pop: https://www.oharasteven.com/
