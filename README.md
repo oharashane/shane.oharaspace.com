@@ -2,4 +2,4 @@
 
 [resume](resume.md)
 
-pop: https://www.oharasteven.com/
+[dad's site](https://www.oharasteven.com/)
