@@ -1,5 +1,6 @@
-# Shane OHara    
+## Shane OHara    
 phone: (three oh three) eight oh nine - two nine nine nine
+
 email: shane at oharaspace dot com
 
 ## Engineering Manager
@@ -29,8 +30,11 @@ Technical leadership for a team of 16 including 3 full time direct reports and 5
 
 ## More
 website: shane.oharaspace.com
+
 Patent
+
 Military
+
 Education
 
 linkedin: https://www.linkedin.com/in/shane-ohara-318a8110b/
