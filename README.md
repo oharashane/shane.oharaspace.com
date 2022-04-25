@@ -1,12 +1,13 @@
 ## 👋 Howdy, I'm shane-o 🧔‍♂️ 
 
 <br />
+<p align="center" >
+  <a href="shaneo.jpg">
+    <img width="60" height="60" border="3" src="shaneo.jpg">
+  </a>
+</p>
 
-![photo of me](shaneo.jpg "it's me!")
-
-<br />
-
-I like building things and I've been a professional [👨‍💻 software developer](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) for 15+ years
+I like building things and I've been a professional [👨‍💻 software developer](resume.md) for 15+ years
 
 Raised in [🏜 Texas](https://www.google.com/search?tbm=isch&as_q=austin+texas), I now live in [⛰ Colorado](https://www.google.com/search?tbm=isch&as_q=castle+rock+colorado) with my [🏠 family](https://oharaspace.com)
 
@@ -19,7 +20,7 @@ I also like [🏃‍♂️ exercise](https://hrcaonline.org/classes-camps-activi
 <br />
 
 ### Resume 
-* [📄 google doc](https://docs.google.com/document/d/1fDbK2gnlTWz5dlmTktv3T_4sgdD1KvS4GsnlFvvDY_Q/) 
+* [📄 gdoc](https://docs.google.com/document/d/1fDbK2gnlTWz5dlmTktv3T_4sgdD1KvS4GsnlFvvDY_Q/) 
 * [🔗 linkedin](https://www.linkedin.com/in/shanerohara)
 * [😴 overly detailed version](resume.md) 
 
