@@ -15,7 +15,7 @@ Technical leadership for a team of 16 including 3 full time direct reports and 5
 
 #### Software Architect and Tech Lead    Dec 2016 - Nov 2020
 
-#### Senior Software Engineer    Oct 2012 - Dec 2016
+#### Senior Software Engineer    Oct 2012 - Dec 2016 
 
 
 ### 5280 Solutions
