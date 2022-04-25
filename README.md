@@ -1,6 +1,6 @@
 ## shane.oharaspace.com
 
-👋 Howdy, I'm Shane 🧔‍♂️.  
+### 👋 Howdy, I'm Shane 🧔‍♂️ 
  
 Raised in 🏜 [Texas](https://www.google.com/search?tbm=isch&as_q=austin+texas), I now live in ⛰ [Colorado](https://www.google.com/search?tbm=isch&as_q=castle+rock+colorado) with my 🏠 family.
 
@@ -8,6 +8,9 @@ I've been a professional 👨🏻‍💻 software developer for 15+ years. Start
 
 I also like 🏃‍♂️ exercise and 👾 computer games.
 
-resume: 🌎 [html](resume.md) 📄 [google docs](https://docs.google.com/document/d/1fDbK2gnlTWz5dlmTktv3T_4sgdD1KvS4GsnlFvvDY_Q/) 🔗 [linkedin](https://www.linkedin.com/in/shanerohara)
+#### resume 
+* 🌎 [html](resume.md) 
+* 📄 [google docs](https://docs.google.com/document/d/1fDbK2gnlTWz5dlmTktv3T_4sgdD1KvS4GsnlFvvDY_Q/) 
+* 🔗 [linkedin](https://www.linkedin.com/in/shanerohara)
 
 
