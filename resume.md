@@ -1,39 +1,42 @@
-## Shane OHara    
-email: shane at oharaspace
+## 🧔‍♂️ Shane OHara    
+✉️: shane at oharaspace
 
-👋 Hi, I'm a happy **Engineering Manager** who still likes to get my hands dirty when I can.  I've been writing code professionally for over 15 years and I've been in technical leadership roles for nearly 7 years.  I love getting into the weeds of tricky technical problems and coming up with creative solutions, but I can also do the human side: communication, collaboration, and coordination.  Not everyone can do the fun coding work; some of us have to take a step back and help everyone work together to achieve our goals.  That's the sweet spot for me. 😄
+👋 Hi, I'm a happy **Engineering Manager** who still likes to get my hands dirty when I can.  I've been writing code professionally for over 15 years and I've been in technical leadership roles for nearly 7 years.
 
-## Experience
+I love getting into the weeds of tricky technical problems and coming up with creative solutions, but I can also do the human side: communication, collaboration, and coordination.  Not everyone can do the fun coding work; some of us have to take a step back and help everyone work together to achieve our goals!
+
+## 👨‍💻 Experience
 ### Bottomline Technologies 
 #### **Software Engineering Manager** &nbsp; _(Nov 2020 - Present)_
-* I lead a cross-functional team of 16 where 3 of the senior engineers are direct reports
-* I still enjoy writing code and troubleshooting (and fixing!) bugs, but have mostly moved to a mentorship role overseeing development across a few projects
+* I currently lead a cross-functional team of 16 where 3 of the senior engineers are direct reports
+* I still enjoy writing code and troubleshooting (and fixing!) bugs, but have mostly moved to a mentorship role overseeing development across 3 development projects for which I am responsible
 * We have bugs like all software products that actually get used, but our stability, agility, and capabilities have become an example in the company
 * Enforcer for keeping things simple, avoiding over-engineering while also avoiding too much technical debt; some debt is inevitable but it must be managed!
-* I have excellent working relationships with our DevOps, IT, and Support teams; also our Product, PreSales, and UI/UX Design teams; not to mention senior management
+* I have excellent working relationships with our Product, DevOps, IT, Support, Security, PreSales, UI/UX Design teams, and senior management
+* Pretty good at translating technobabble to VP-speak, and vice versa
 * We follow some agile methodology but I try to keep things light and loose; some structure is needed but too much can kill productivity, creativity, and happiness of the team
 
 #### **Software Architect** and **Tech Lead** &nbsp; _(Dec 2016 - Nov 2020)_
 * Lead Architect for a new Invoice Automation SaaS product from scratch
-* C# ASP.NET Core (since beta versions and now to 6.0)
-* Became Subject Matter Expert in Invoices, Accounts Payable
+* C# ASP.NET Core (since beta versions and now to 6.0), and a little Java
+* Became Subject Matter Expert in Accounts Payable, Invoicing
 * Developed Invoice OCR/Extraction engine, with line/table extraction and line matching to Purchase Orders
 * KeyCloak AuthZ/AuthN with AzureAD SSO integration and Okta
 * Postgres databases; queries, indexing, performance tuning, partitioning, data migrations, and liquibase schema versioning
 * Dynamics 365 ERP integration with OData+Rest
 * First version was located in the UK and based on Windows Virtual Machines, led effort to containerize and run on kubernetes cluster with RHEL
 * Led critical data migration work moving live customers with minimal downtime to new platform
-* Led most deployments, patches, hotfixes
+* Led most scheduled deployments, patches, and hotfixes
 * Led most troubleshooting sessions for the craziest bugs and support cases, while cross-training our support engineers and documenting common scenarios
 * Serilog and ELK+APM stack for structured, queryable logging - Elastisearch, Logstash, Kibana
 * Jenkins and Gitlab Continuous Integration and Continuous Deployment
-* Our OCR engine, Extraction engine, PDF parsing capabilities, and ERP data matching algorithms each became reusable services shared by other products and projects in the company by popular demand
+* Our OCR engine, Extraction engine, PDF parsing capabilities, and ERP data matching algorithms each became reusable micro-services shared by other products and projects in the company (by popular demand)
 * Some of those extraction and matching capabilities led to a patent (more info at the bottom) where myself and another developer are listed as inventors
 
 #### **Senior Software Engineer** &nbsp; _(Oct 2012 - Dec 2016)_
 * The Invoice Automation project we created at 5280 Solutions was split out (amicably) into it's own startup company for a while, and then was acquired by Bottomline Technologies
 * Instead of being a flexible framework for client engagements, we put real engineering work into making it a scalable, reusable product
-* Led the efforts to add unit tests, automated UI tests, installers, code documentation, troubleshooting guides, and other "productization"  work like code refactoring and modernization
+* Led the efforts to add unit tests, automated UI tests, reliable installers, code documentation, troubleshooting guides, and other "productizing" work
 * Developed a few small services automating and solving the biggest pain points
 * Designed iOS mobile app for invoice approvals, and developed the C# backend
 
@@ -63,16 +66,17 @@ email: shane at oharaspace
 * Studied buffer overflows, sql injection, rootkits, and network scanners
 * Went to Black Hat and Defcon in 2006 and stood up when they asked everyone who worked for the gov't to rise
 * PT (Physical Training) leader
-* President of the Airman Council in our org; we threw some fun events and helped out the younger enlisted members adjust to military life
-* Twice Division "Airman of the Year" award: 2005, 2006
+* President of the Airman Council in our org; we threw some fun events and helped the younger enlisted members adjust to military life
+* Twice recipient of Division "Airman of the Year" award: 2005, 2006
 
-## Technical skills
-* Primarily web applications and API backends
+## 🥷 Technical skills
+* Primarily web applications, API backends, and writing small tools for automating the manual stuff
+* Unit tests, Integration tests, UI tests
 * Some Python, Java, and JavaScript, but mostly C#/.NET (_the modern stuff, not the old Framework stuff!_)
-* Very comfortable with Linux development but I'm no sysadmin
-* Also comfortable with Kubectl, helm, docker technologies, and I'm also familiar with how complex those architectures can get
+* Very comfortable developing on Linux but I'm no sysadmin
+* Somewhat comfortable with Kubectl, helm, docker technologies, and I'm also familiar with how complex those architectures can get 
 
-## More about me
+## 🤓 More about me
 * Patent in 2021: [Partial perceptual image hashing for invoice deconstruction](https://patents.google.com/patent/US20210110447A1/en)
 * Military Service: US Air Force Computer Programmer 3C0X2. Enlisted Senior Airman E-4 rank. Had TS/SCI clearance but it *expired* in 2012
 * Education: Bachelor's Degree in [Computer Science from Park University](https://www.park.edu/academics/explore-majors-programs/information-computer-science-degree/).  Started my degree at Texas A&M, but then joined the Air Force, where I finished my degree at Park
@@ -84,3 +88,5 @@ email: shane at oharaspace
 * Linkedin: <https://www.linkedin.com/in/shanerohara>
   
 * Personal Website: <https://shane.oharaspace.com>
+
+✌️
