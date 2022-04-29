@@ -3,7 +3,7 @@
 <br />
 <p align="center" >
   <a href="shaneo.jpg">
-    <img width="60" height="60" border="3" src="shaneo.jpg">
+    <img width="80" height="80" border="3" src="shaneo.jpg">
   </a>
 </p>
 
@@ -20,8 +20,8 @@ I also like [🏃‍♂️ exercise](https://hrcaonline.org/classes-camps-activi
 <br />
 
 ### Resume 
-* [📄 gdoc](https://docs.google.com/document/d/1fDbK2gnlTWz5dlmTktv3T_4sgdD1KvS4GsnlFvvDY_Q/) 
 * [🔗 linkedin](https://www.linkedin.com/in/shanerohara)
+* [📄 google doc](https://docs.google.com/document/d/1fDbK2gnlTWz5dlmTktv3T_4sgdD1KvS4GsnlFvvDY_Q/) 
 * [😴 overly detailed version](resume.md) 
 
 
