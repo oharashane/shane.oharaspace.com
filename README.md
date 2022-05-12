@@ -1,4 +1,4 @@
-## 👋 Howdy, I'm shane-o 🧔‍♂️ 
+## 👋 Howdy, I'm shane-o 🧔‍
 
 <br />
 <p align="center" >
