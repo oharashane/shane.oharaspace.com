@@ -1,4 +1,4 @@
-## 🧔‍♂️ Shane OHara    
+## 🧔‍ Shane OHara    
 ✉️: **shane** _at_ **oharaspace**
 
 👋 Hi, I'm a happy **Engineering Manager** and still like to get my hands dirty when I can.  I've been writing code professionally for over 15 years and I've been in technical leadership roles for nearly 7 years.
