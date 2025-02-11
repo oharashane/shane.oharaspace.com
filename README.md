@@ -9,16 +9,15 @@
 
 i like building things and i've been a professional software developer for 20 years, mostly around c#
 
-i'm now a "principal" software engineer with [bottomline](https://www.bottomline.com/us/)
+i'm now a "principal software engineer" with a place called [bottomline](https://www.bottomline.com/)
 
-i [run](https://hrcaonline.org/classes-camps-activities/sports-fitness/race-series/race-events)
+i [run](https://hrcaonline.org/Activities/Race-Series)
 
 and [play](https://www.minecraft.net/en-us/store/minecraft-java-edition)
 
 <br />
 
 * [linkedin sucks](https://www.linkedin.com/in/shanerohara)
-
 
 <br />
 
